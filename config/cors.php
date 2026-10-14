@@ -30,6 +30,9 @@ return [
         // Production site.
         'https://tradewithcuso.com',
         'https://www.tradewithcuso.com',
+        'https://naz.biggbrodaclothing.com/',
+        'https://biggbrodaclothing.com/',
+        'https://www.biggbrodaclothing.com/',
 
         // The Vercel deployment the custom domain points at.
         'https://tradewithcuso.vercel.app',
